@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+*.name
+.idea/encodings.xml
+.idea/misc.xml
+*.xml
+.idea/python.iml
