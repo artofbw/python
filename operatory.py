@@ -28,3 +28,7 @@ Logiczne
 and
 or
 not
+
+import keyword
+keyword.
+print(keyword.kwlist) - sprawdzenie wyrażeń kluczowych, których nie można użyć
